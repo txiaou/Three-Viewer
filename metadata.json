@@ -1,0 +1,5 @@
+{
+  "name": "AI Three-View Generator",
+  "description": "Upload an image and the AI will generate a professional three-view (front, side, top) drawing while maintaining the original artistic style.",
+  "requestFramePermissions": []
+}
